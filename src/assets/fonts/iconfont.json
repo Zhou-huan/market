@@ -1,0 +1,58 @@
+{
+  "id": "1574278",
+  "name": "secondProject",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1348160",
+      "name": "色块－超市",
+      "font_class": "sekuaichaoshi",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "1905159",
+      "name": "头像 女孩",
+      "font_class": "icon-test",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "2596795",
+      "name": "超市",
+      "font_class": "chaoshi",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    },
+    {
+      "icon_id": "3715705",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "3900065",
+      "name": "金钱",
+      "font_class": "jinqian-",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "5268481",
+      "name": "销售录单",
+      "font_class": "xiaoshouludan",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "5401110",
+      "name": "金币",
+      "font_class": "jinbi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
